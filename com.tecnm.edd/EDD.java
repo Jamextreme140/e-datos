@@ -6,6 +6,7 @@ import java.util.List;
 /**
  *
  * @author Mario Rios <jose.rf@culiacan.tecnm.mx>
+ * finished by Jaime Humberto <L21170384@culiacan.tecnm.mx>
  */
 public class EDD {
     
